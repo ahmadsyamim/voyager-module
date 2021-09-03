@@ -1,0 +1,13 @@
+{
+    "name": "Voyager",
+    "alias": "voyager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Voyager\\Providers\\VoyagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

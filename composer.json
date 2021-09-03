@@ -1,0 +1,27 @@
+{
+    "name": "nwidart/voyager",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Voyager\\": ""
+        }
+    },
+    "require": {
+        "tcg/voyager": "^1.5"
+    }
+}
