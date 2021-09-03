@@ -1,11 +1,11 @@
 {
-    "name": "nwidart/voyager",
+    "name": "ahmadsyamim/voyager",
     "description": "",
     "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Ahmad Syamim",
+            "email": "ahmad.syamim@gmail.com"
         }
     ],
     "extra": {
